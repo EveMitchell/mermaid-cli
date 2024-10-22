@@ -1,0 +1,15 @@
+gantt
+    title Partnership Success Timeline
+    dateFormat  YYYY-MM-DD
+    section Pre Go-Live
+    Vision & Strategy    :a1, 2024-01-01, 1d
+    Ready for Success    :a2, 2024-01-08, 1d
+    section Launch
+    Launch Day          :milestone, m1, 2024-01-15, 1d
+    section Early Wins
+    Weekly Meetings     :a3, 2024-01-15, 28d
+    section Success Sync
+    Bi-Weekly Meetings  :a4, 2024-02-12, 28d
+    section Prosperity
+    Monthly Meetings    :a5, 2024-03-11, 28d
+    QBR                 :milestone, m2, 2024-04-15, 1d
